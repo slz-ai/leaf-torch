@@ -1,0 +1,12 @@
+Total number of clients: 184
+--- Random Initialization ---
+train_accuracy: 0.0137529, 10th percentile: 0, 50th percentile: 0.00671141, 90th percentile 0.0220119
+train_loss: 4.12508, 10th percentile: 4.12023, 50th percentile: 4.12552, 90th percentile 4.12944
+test_accuracy: 0.0149657, 10th percentile: 0, 50th percentile: 0, 90th percentile 0.0555556
+test_loss: 4.12598, 10th percentile: 4.1063, 50th percentile: 4.12715, 90th percentile 4.14796
+--- Round 0 of 1: Training 10 clients ---
+--- Round 1 of 1: Training 10 clients ---
+train_accuracy: 0.0496489, 10th percentile: 0.0255993, 50th percentile: 0.0611311, 90th percentile 0.0812349
+train_loss: 3.70964, 10th percentile: 3.55678, 50th percentile: 3.6558, 90th percentile 3.83177
+test_accuracy: 0.0402252, 10th percentile: 0, 50th percentile: 0.0322581, 90th percentile 0.111111
+test_loss: 3.72053, 10th percentile: 3.42008, 50th percentile: 3.71535, 90th percentile 3.89094

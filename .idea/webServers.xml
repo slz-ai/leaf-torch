@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adfbf486-234d-4a1c-89d1-a6deeffb485f" name="server" url="http://117.175.182.182">
+        <fileTransfer host="117.175.182.182" port="913" rootFolder="/home/zengsl" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="913" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
