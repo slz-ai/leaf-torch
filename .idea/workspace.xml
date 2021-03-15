@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="02b53b1b-b3f2-4b41-8869-7497c4c8d0b9" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/metrics_stat.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/metrics_sys.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +148,7 @@
       <workItem from="1614244077190" duration="15077000" />
       <workItem from="1614328622480" duration="5060000" />
       <workItem from="1614778811473" duration="32659000" />
-      <workItem from="1615785619067" duration="2952000" />
+      <workItem from="1615785619067" duration="3998000" />
     </task>
     <servers />
   </component>
