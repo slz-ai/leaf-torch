@@ -12,7 +12,7 @@ class Server:
         self.selected_clients = []
         # build and synchronize the global model
         self.model = build_net(dataset, model_name, num_classes)
-        self.model.set_params(client_model.get_params())#把自己的参数给自己
+        self.model.set_params(client_model.get_params())
 
         self.updates=[]
         # build a model for merging updates

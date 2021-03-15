@@ -27,7 +27,7 @@ class Model(ABC):
                 self._optimizer = "sgd"
 
             return self._optimizer
-    ###为啥什么都没有
+
     @abstractmethod
     def create_model(self):
         """Creates the model for the task.
@@ -64,7 +64,7 @@ class Model(ABC):
 
     def run_epochs(self, data, batch_size):
         for batched_x, batched_y in batch_data(data, batch_size, seed=self.seed):
-            input_data = self.preprocess_x(batched_x)#这个要好好看看
+            input_data = self.preprocess_x(batched_x)
             target_data = self.preprocess_y(batched_y)
             self.trainer0.zero_grad()
             y_hats = self.net(input_data)
