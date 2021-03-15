@@ -3,8 +3,7 @@ import numpy as np
 import os
 import importlib
 import torch
-#import mxnet as mx
-#from mxnet import nd, init
+
 from collections import defaultdict
 from baseline_constants import INPUT_SIZE
 def batch_data(data, batch_size, seed):
