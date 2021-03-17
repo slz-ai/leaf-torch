@@ -41,7 +41,7 @@ Default values for hyper-parameters are set in `utils/args.py`, including:
 - You can find the output of this demo in logs folder. e.g`logs/femnist/0/output`
 - You can also find the parameters of CNN in logs folder after finishing the simulation.e.g`logs/femnist/0/cnn.params`
 - The dataset is not uploaded,you should download it by yourself and follow the instruction to generate data as described above.
-- Before running the demo,you can remove the `logs` folder since it will be generated when the demo is running. (The original folder contains my last results.)
+- Before running the demo,you can remove the `logs` folder since it will be generated when the demo is running. 
 - To visulize the results,run `metrics/visulize.py` **after** finishing the simulation 
 - More functions will be uploaded soon.
 ## Thanks
